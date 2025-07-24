@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammad Abdullah
+- 👋 Hi, I’m Mohammad Abdullah
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Java
 - 📫 How to reach me mabdullah.2118@gmail.com
