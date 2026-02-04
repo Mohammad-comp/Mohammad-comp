@@ -13,6 +13,7 @@ design—especially when they
 involve APIs, data, or AI-driven workflows.
 
 
+
 **💻 What I’m Working On**
 
 🤖 AI & Automation
@@ -33,6 +34,7 @@ involve APIs, data, or AI-driven workflows.
 	•	Analyzed the 2023 Turkey–Syria earthquake (Gaziantep)
 	•	Used GIS to identify high-risk zones, population vulnerability, and optimized evacuation routes
 	•	Explored how geospatial technology improves crisis management
+
 
 
 **Skills & Technologies**
@@ -58,6 +60,7 @@ Concepts
 	•	Data visualization
 	•	SDLC & system design
 
+
 **Featured Projects (Coming Soon)**
 
 I’m actively refining and documenting my projects—check back as I continue pushing:
@@ -66,7 +69,7 @@ I’m actively refining and documenting my projects—check back as I continue p
 	•	iOS SwiftUI Apps
 	•	Data Visualization & GIS Projects
 
+
 **Let’s Connect**
     •   [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 	•	GitHub: (you’re already here 😄)
-
