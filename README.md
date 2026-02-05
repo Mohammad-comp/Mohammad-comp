@@ -1,7 +1,7 @@
 **Hi, I’m Mohammad Abdullah**
 
 I’m a Computer Science student
-(Software Engineering track) with 
+specializing in Software Engineering with 
 a minor in Business, passionate about 
 building practical software, 
 exploring AI-powered systems, 
@@ -73,5 +73,5 @@ I’m actively refining and documenting my projects—check back as I continue p
 ---
 
 **Let’s Connect**
-    •   [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+    •   [LinkedIn](http://www.linkedin.com/in/mohammad-abdullah-63a87b225)
 	•	GitHub: (you’re already here 😄)
