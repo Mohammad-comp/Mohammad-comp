@@ -73,5 +73,6 @@ I’m actively refining and documenting my projects—check back as I continue p
 ---
 
 **Let’s Connect**
-    •   [LinkedIn](http://www.linkedin.com/in/mohammad-abdullah-63a87b225)
-	•	GitHub: (you’re already here 😄)
+- [LinkedIn](http://www.linkedin.com/in/mohammad-abdullah-63a87b225)
+- [Resume](https://holistic-accordion-834.notion.site/Mohammad-Abdullah-2f21f179fc6e80bba25fd010095d3723?source=copy_link)
+- GitHub: (you’re already here 😄)
