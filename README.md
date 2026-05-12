@@ -2,7 +2,7 @@
 
 I’m a Computer Science student
 specializing in Software Engineering with 
-a minor in Business, passionate about 
+a minor in Cybersecurity, passionate about 
 building practical software, 
 exploring AI-powered systems, 
 and strengthening my foundations for a future in Cybersecurity.
